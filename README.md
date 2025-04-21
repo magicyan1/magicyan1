@@ -19,32 +19,32 @@
 ### 🚀 [FileShare](https://github.com/magicyan1/fileshare)
 
 <p>
-  <img src="https://magicyan.42web.io/var/albums/fileshare.png?m=1745202406" width="300" />
+  <img src="https://github.com/user-attachments/assets/24cec1d8-6006-4d61-a31a-6780ff3b3f5d" width="300" />
 </p>
 
 文件共享系统  
-👉 [Live Demo](https://fileshare-silk.vercel.app/)
+👉 [Live](https://fileshare-silk.vercel.app/)
 
 ---
 
 ### 🎨 [UUAvatar](https://github.com/magicyan1/uuavatar)
 
 <p>
-  <img src="https://magicyan.42web.io/var/albums/uuavatar.png?m=1745202407" width="300" />
+  <img src="https://github.com/user-attachments/assets/ef0df813-4a31-4968-a308-e2ce77a39620" width="300" />
 </p>
 
 唯一头像生成器  
-👉 [Live Demo](https://uuavatar.vercel.app/)
+👉 [Live](https://uuavatar.vercel.app/)
 
 ---
 
 ### 🧱 [Magicyan Pixel](https://github.com/magicyan1/pixel)
 
 <p>
-  <img src="https://magicyan.42web.io/var/albums/pixel.png?m=1745202407" width="300" />
+  <img src="https://github.com/user-attachments/assets/12d2814a-617a-4b9b-a773-dff5c39ec7ec" width="300" />
 </p>
 
 像素风格个人主页  
-👉 [Live Demo](https://pixel-peach-phi.vercel.app/home)
+👉 [Live](https://pixel-peach-phi.vercel.app/home)
 
 ---
